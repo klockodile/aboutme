@@ -49,7 +49,7 @@ a:active  { color: pink;  }
 /* fixed background div for body */
 
 .fixed-bg {
-  background-image: url("/background.png");
+  background-image: url("images/background.png");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
